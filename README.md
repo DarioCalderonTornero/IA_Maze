@@ -24,8 +24,6 @@ Each evaluated tile becomes a node containing:
 
 This structure allows reconstructing the final path once the destination is reached.
 
-📄 Main script: :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 🔍 How the algorithm works
