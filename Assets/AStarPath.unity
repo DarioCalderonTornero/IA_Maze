@@ -410,8 +410,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: -6}
+  m_LocalRotation: {x: -0.084638104, y: -0.000000029802322, z: 0.000000029802322, w: 0.9964118}
+  m_LocalPosition: {x: 49.69975, y: -78.599945, z: -71.999954}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -466,7 +466,7 @@ MonoBehaviour:
   width: 25
   depth: 25
   scale: 6
-  wallColour: {fileID: 0}
+  wallColour: {fileID: 2100000, guid: c6ead496a2151744cb1d0097e70a741d, type: 2}
 --- !u!114 &1005088015
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -480,8 +480,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maze: {fileID: 1005088014}
-  closedMaterial: {fileID: 2100000, guid: a39ce23f4c7304a76aef66e35714e69b, type: 2}
-  openMaterial: {fileID: 2100000, guid: 8ab3124b7e8a34ca6bb2e831a9726475, type: 2}
+  closedMaterial: {fileID: 2100000, guid: c6ead496a2151744cb1d0097e70a741d, type: 2}
+  openMaterial: {fileID: 2100000, guid: 9d10cf13efca142469cdccc348b1f662, type: 2}
   start: {fileID: 2709459588724022226, guid: 63040bab6d2dd1d459c6858109c40afa, type: 3}
   end: {fileID: 6856673923357348324, guid: a05f88bb7457d4e59bd0ee0e79575ce1, type: 3}
   pathP: {fileID: 4872082831671335508, guid: fbc327f82b9b646dca7e0960e120ec66, type: 3}
