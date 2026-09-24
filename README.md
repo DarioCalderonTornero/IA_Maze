@@ -1,4 +1,4 @@
-# 🧭 Unity Project - Pathfinding with A* (FindPathAStar)
+# 🧭 IA Maze — A* Pathfinding Visualizer in Unity
 
 ## 📌 Overview
 
@@ -53,7 +53,7 @@ The system navigates the map by evaluating **neighboring tiles in 4 directions**
 - Left  
 - Right  
 
-These directions are defined within the map coordinate system, allowing the environment to be treated as a grid :contentReference[oaicite:1]{index=1}
+These directions are defined within the map coordinate system, allowing the environment to be treated as a grid.
 
 For each neighbor:
 
@@ -149,3 +149,9 @@ This project doesn’t just implement A* — it turns it into a visual and inter
 
 In short, it’s a great tool for learning and visualizing how the A* algorithm works inside a Unity environment.
 
+---
+
+## 👤 Author
+
+**Darío Calderón Tornero** — Gameplay Programmer (Unity & Unreal Engine 5)  
+[Portfolio](https://dariogamedev.com) · [LinkedIn](https://www.linkedin.com/in/dariocalderontornero/) · [GitHub](https://github.com/DarioCalderonTornero)
